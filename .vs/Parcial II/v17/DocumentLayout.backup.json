@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Documents\\FUNDAMENTOS DE PROGRAMACION\\PROGRAMACION II BACKED\\Parcial II\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EACB582A-1AA4-40EB-8E5A-8EA54415ED74}|Parcial II\\Parcial II.csproj|c:\\users\\usuario\\documents\\fundamentos de programacion\\programacion ii backed\\parcial ii\\parcial ii\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EACB582A-1AA4-40EB-8E5A-8EA54415ED74}|Parcial II\\Parcial II.csproj|solutionrelative:parcial ii\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EACB582A-1AA4-40EB-8E5A-8EA54415ED74}|Parcial II\\Parcial II.csproj|c:\\users\\usuario\\documents\\fundamentos de programacion\\programacion ii backed\\parcial ii\\parcial ii\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EACB582A-1AA4-40EB-8E5A-8EA54415ED74}|Parcial II\\Parcial II.csproj|solutionrelative:parcial ii\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\FUNDAMENTOS DE PROGRAMACION\\PROGRAMACION II BACKED\\Parcial II\\Parcial II\\.gitignore",
+              "RelativeDocumentMoniker": "Parcial II\\.gitignore",
+              "ToolTip": "C:\\Users\\USUARIO\\Documents\\FUNDAMENTOS DE PROGRAMACION\\PROGRAMACION II BACKED\\Parcial II\\Parcial II\\.gitignore",
+              "RelativeToolTip": "Parcial II\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-09T03:26:46.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\FUNDAMENTOS DE PROGRAMACION\\PROGRAMACION II BACKED\\Parcial II\\Parcial II\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "Parcial II\\Controllers\\ProductoController.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\FUNDAMENTOS DE PROGRAMACION\\PROGRAMACION II BACKED\\Parcial II\\Parcial II\\appsettings.json",
               "RelativeDocumentMoniker": "Parcial II\\appsettings.json",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Parcial II\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-09T02:55:48.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T02:55:48.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\FUNDAMENTOS DE PROGRAMACION\\PROGRAMACION II BACKED\\Parcial II\\Parcial II\\Program.cs",
               "RelativeDocumentMoniker": "Parcial II\\Program.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "Parcial II\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:53:40.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T02:53:40.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\FUNDAMENTOS DE PROGRAMACION\\PROGRAMACION II BACKED\\Parcial II\\Parcial II\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "Parcial II\\Models\\Producto.cs",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "Parcial II\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:53:33.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T02:53:33.906Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ParcialContext.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Documents\\FUNDAMENTOS DE PROGRAMACION\\PROGRAMACION II BACKED\\Parcial II\\Parcial II\\Models\\ParcialContext.cs",
               "RelativeDocumentMoniker": "Parcial II\\Models\\ParcialContext.cs",
@@ -102,8 +116,7 @@
               "RelativeToolTip": "Parcial II\\Models\\ParcialContext.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAcwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:52:31.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-09T02:52:31.314Z"
             }
           ]
         }
